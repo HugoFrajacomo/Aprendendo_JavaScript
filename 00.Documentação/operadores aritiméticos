@@ -1,0 +1,20 @@
+adição (+) = soma valores
+
+subtração (-) = subtrai valores
+
+multiplicação (*) = multiplica valores
+
+divisão (/) = divide valores
+
+Resto (%) = obtem o resto da divisão
+
+incremento (++) - pré/pos incrimento
+
+decremento (--) - Pré/pos decremento
+
+Precedências da instrução: 
+
+poderia utilizar os ( ) para executar primeiro a instrução dentro dele.
+
+1º Multiplicação e divisão
+2º Ocorre de cima para baixo e da esquerda para direita

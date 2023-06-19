@@ -1,0 +1,23 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Sobrescreva qualquer variável do SASS usando o "!default" na frente da modificação
+//* ex: $primary: red !default;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Then add additional custom code here
+
+main {
+    background: #192429;
+    border: 1px solid red;
+}
+
+.botoesCalc {
+    background: #ccc;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

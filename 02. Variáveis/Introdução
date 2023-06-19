@@ -1,0 +1,33 @@
+
+-----------------------------------------------------------------------------------------------------------
+Tipos de variáveis:
+
+> String = Armazena texto
+
+> Number = Armazena valores numéricos, positivos ou negativos, inteiros ou fracionaveis
+
+> Boolean = Armazenamento de estados (true ou false). Utiliza-se para testes condicionais
+
+-----------------------------------------------------------------------------------------------------------
+
+Regras para declaração de variáveis:
+
+Não podem ser iniciadas com NÚMEROS, apenas com letras ou "_"
+
+Não podem ser utilizados caracteres especiais como "ç", "^" ou "~"
+
+Não podem ser iguais as palavras reservadas da linguagem
+
+-----------------------------------------------------------------------------------------------------------
+
+Como declarar variável:
+
+var = Forma correta de declarar variável
+
+let
+
+
+Importante lembrar que o javascript, faz diferença entre letras maiúsculas o u minúsculas...
+Desta forma ao declarar "var = Idade" e "var = idade" as duas serão instruções diferentes uma da outra
+-----------------------------------------------------------------------------------------------------------
+

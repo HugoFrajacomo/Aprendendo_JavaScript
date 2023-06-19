@@ -1,0 +1,7 @@
+Comando do javascript
+
+alert() -> Abre um diálogo no navegador
+document.write() // Escreve dentro do navegador os valores
+
+Contatenação
+

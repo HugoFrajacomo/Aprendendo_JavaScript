@@ -1,0 +1,17 @@
+Operadores
+
+igual (==) - Verifica se os valores comparados são iguais
+
+Idêntico (===) - Verifica se os valores comparados são iguais e do mesmo tipo
+
+Diferente (!=) - Verifica se os valores comparados são diferentes
+
+Não Idêntico (!==) - Verifica se os valores comparados são difirentes e de tipos diferentes
+
+menor (<) - Verifica se o valor da esquerda é menor que o da direita
+
+maior (>) - Verifica se o valor da esquerda é maior que o da direita
+
+menor igual (<=) - Verifica se o valor da esquerda é menor ou igual ao da direita
+
+maior igual (>=) - verifica se o valor da esquerda é maior ou igual ao da direita

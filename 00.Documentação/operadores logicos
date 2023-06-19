@@ -1,0 +1,5 @@
+e (&&) - Vardadeiro se todas as exprossões forem verdadeiras
+
+ou (||) - Vardadeiro se uma das opções foram verdadeira
+
+negação (!) - investe o resultado da expressão da comparação (se for true, vira false e vise versa)
